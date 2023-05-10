@@ -1,0 +1,22 @@
+# Ignorar arquivos do Unity
+Temp/
+Library/
+ProjectSettings/AssetImportState.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/EditorSettings.asset
+
+# Ignorar arquivos de compilação
+*.dll
+*.pdb
+*.mdb
+*.meta
+
+# Ignorar arquivos gerados por usuários
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
